@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: spring-boot-k8s
-          image: gorgui/docker-jenkins-integration-kubernetes2 # Image that will be used to containers in the cluster
+          image: gorgui/docker-jenkins-integration-kubernetesnew # Image that will be used to containers in the cluster
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8080 # The port that the container is running on in the cluster
