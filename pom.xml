@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		 <finalName>docker-jenkins-integration-kubernetes</finalName>
+		 <finalName>docker-jenkins-integration-kubernetes2</finalName>
 	</build>
 
 </project>
